@@ -1,6 +1,6 @@
 # ishiku-registry
 
-Registry data for `ishiku.nvim`.
+Registry data for [`ishiku.nvim`](https://github.com/yuchanns/ishiku.nvim).
 
 `ishiku-registry` provides two kinds of data:
 
