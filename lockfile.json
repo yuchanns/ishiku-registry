@@ -466,6 +466,7 @@
   },
   "lua": {
     "revisions": {
+      "nvim-0.11": "v0.4.0",
       "nvim-0.12": "v0.5.0",
       "default": "v0.5.0"
     }
@@ -487,12 +488,14 @@
   },
   "markdown": {
     "revisions": {
+      "nvim-0.11": "v0.5.0",
       "nvim-0.12": "v0.5.3",
       "default": "v0.5.3"
     }
   },
   "markdown_inline": {
     "revisions": {
+      "nvim-0.11": "v0.5.0",
       "nvim-0.12": "v0.5.3",
       "default": "v0.5.3"
     }
@@ -655,6 +658,7 @@
   },
   "query": {
     "revisions": {
+      "nvim-0.11": "v0.6.2",
       "nvim-0.12": "v0.8.0",
       "default": "v0.8.0"
     }
@@ -916,12 +920,14 @@
   },
   "vim": {
     "revisions": {
+      "nvim-0.11": "v0.7.0",
       "nvim-0.12": "v0.8.1",
       "default": "v0.8.1"
     }
   },
   "vimdoc": {
     "revisions": {
+      "nvim-0.11": "v4.0.0",
       "nvim-0.12": "v4.1.0",
       "default": "v4.1.0"
     }

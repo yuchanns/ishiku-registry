@@ -14,7 +14,7 @@ This repository is entirely AI-generated.
 - `registry/parsers.lua`
   parser sources and install metadata
 - `lockfile.json`
-  pinned parser revisions, including Neovim-version-aware entries such as `nvim-0.12`
+  pinned parser revisions, including Neovim-version-aware entries such as `nvim-0.11` and `nvim-0.12`
 - `queries/<lang>/*.scm`
   runtime queries activated by `ishiku.nvim`
 
