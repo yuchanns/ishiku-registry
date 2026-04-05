@@ -7,7 +7,8 @@ Registry data for `ishiku.nvim`.
 - parser metadata used by `ishiku.nvim` to install and update parsers
 - runtime query files used by `vim.treesitter`
 
-This repository is entirely AI-generated.
+>[!CAUTION]
+> This repository is **entirely AI-generated**.
 
 ## Contents
 
